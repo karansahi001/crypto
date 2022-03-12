@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import CoinsList from '../comps/CoinsList'
 import Nav from '../comps/Nav'
-import Column from '../comps/Coins/column'
+import Column from '../comps/Coins/Column'
 import React, { useState } from 'react'
 
 
