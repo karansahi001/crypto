@@ -3,9 +3,11 @@
 
 
 A website built with Typescript Reactjs to check real-time prices of Crypto currencies along with some additional info such as 24h price change, Market cap etc. <br /><br />
-This is my first Typescript with Reactjs project. I used to think that typescript is not worth learning, but now I just LOVE typescript and gonna use it in every project. <br/>
+
 I used React Chartjs to show the crypto prices in the form of a line chart. <br /><br />
-A crypto API is used to display the real-time crypto data.
+A crypto API is used to display the real-time crypto data.<br/> <br/>
+
+This is my first Typescript with Reactjs project. I used to think that typescript is not worth learning, but now I just LOVE typescript and gonna use it in every project. <br/>
 
 ## 💻 Live Demon Link:
 https://icrypto-track.netlify.app/
